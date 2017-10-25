@@ -1,0 +1,22 @@
+{
+  "name": "ready-made-form",
+  "version": "1.0.0",
+  "description": "A ready made form",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffnamenye/FormWDD.git"
+  },
+  "author": "JNamenye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffnamenye/FormWDD/issues"
+  },
+  "homepage": "https://github.com/jeffnamenye/FormWDD#readme",
+  "dependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
